@@ -11,7 +11,7 @@ static void display(){
 	JOptionPane.showMessageDialog(null, "This program will take your name input and spit it blak out.", "About this Program",
 			           JOptionPane.QUESTION_MESSAGE);
 }
-static String fetchName()
+static String fetchName()tra
 
 {
 	String fetchedName = "";
